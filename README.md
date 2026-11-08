@@ -15,7 +15,6 @@ Cuban software developer based in Curitiba, Brazil. I build real products: full-
 | [Super Chat Manager](https://github.com/wilkin-barban/Super-Chat-Manager) | Self-hosted live chat manager with an embeddable widget, Telegram, admin panel, RAG, SQLite and Docker. | [v1.2.0](https://github.com/wilkin-barban/Super-Chat-Manager/releases/tag/v1.2.0) |
 | [FF-Converter](https://github.com/wilkin-barban/FF-Converter) | Cross-platform FFmpeg batch converter and desktop orchestrator for Windows and Linux. | [v1.1.1](https://github.com/wilkin-barban/FF-Converter/releases/tag/v1.1.1) |
 | [pi-auto-compaction](https://github.com/wilkin-barban/pi-auto-compaction) | Configurable automatic context compaction for Pi, gentle-shell and herdr, with selectable summarizers, fallback, telemetry and diagnostics. | [v1.2.1](https://github.com/wilkin-barban/pi-auto-compaction/releases/tag/v1.2.1) |
-| [Portafolio](https://github.com/wilkin-barban/Portafolio) | Trilingual portfolio (ES/EN/PT) with six real case studies, screenshot galleries, live links and Docker/Nginx deployment. | [Live](https://wilkinbarban.duckdns.org) · [v1.1.2](https://github.com/wilkin-barban/Portafolio/releases/tag/v1.1.2) |
 
 ## Stack
 
